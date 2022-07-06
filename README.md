@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on building a full-stack website for my startup - Momo's Kitchen, which is a food delivery website.<br><br>🌱 I’m currently learning the MERN stack and working as an AI Research Developer @McGill.<br><br>💬 Ask me about Music, Food, AI, Football, Guitars, Software...<br><br>⚡ Fun fact: I was born on Friday the 13th. 👻<br><br>🌐 Learn more about me here: (fardin24.netlify.app)[https://fardin24.netlify.app/]<br><br><br>
+🔭 I’m currently working on building a full-stack website for my startup - Momo's Kitchen, which is a food delivery website.<br><br>🌱 I’m currently learning the MERN stack and working as an AI Research Developer @McGill.<br><br>💬 Ask me about Music, Food, AI, Football, Guitars, Software...<br><br>⚡ Fun fact: I was born on Friday the 13th. 👻<br><br>🌐 Learn more about me here:[https://fardin24.netlify.app/]<br><br><br>
 
 
 ## 🌐 Socials:
