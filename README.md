@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi I'm Fardin 👋
 
-🔭 I’m currently working on building a full-stack website for my startup - Savourite which is a food review website.<br><br>🌱 I’m currently learning the MERN stack and representing McGill @ProjectX AI Research Competition.<br><br>💬 Ask me about Music, Food, AI, Football, Guitars, Software...<br><br>⚡ Fun fact: I was born on Friday the 13th. 👻<br><br>🌐 Learn more about me here: https://fardin24.netlify.app/ <br><br><br>
+🔭 Check out my latest work: https://savorite.netlify.app/.<br><br>🌱 I’m currently learning the MERN stack and representing McGill @ProjectX AI Research Competition.<br><br>💬 Ask me about Music, Food, AI, Football, Guitars, Software...<br><br>⚡ Fun fact: I was born on Friday the 13th. 👻<br><br>🌐 Learn more about me here: https://fardin24.netlify.app/ <br><br><br>
 
 
 # 💻 Tech Stack:
