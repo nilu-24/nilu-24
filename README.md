@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi I'm Fardin 👋
 
-🔭 Check out my latest work: https://savorite.netlify.app/ 🍴 <br><br>🌱 I’m currently on my competitive programming grind and representing McGill @ProjectX AI Research Competition.<br><br>💬 Ask me about Music, Food, AI, Football, Guitars, Software...<br><br>⚡ Fun fact: I was born on Friday the 13th. 👻<br><br>🌐 Learn more about me here: https://fardin24.netlify.app/ <br><br><br>
+🔭 Check out my latest work: https://savorite.netlify.app/ 🍴 <br><br>🌱 I’m currently working as a Full Stack Software Engineer @Progenitek and trying to excel in my competitve programming grind.<br><br>💬 Ask me about Music, Food, AI, Football, Guitars, Software...<br><br>⚡ Fun fact: I was born on Friday the 13th. 👻<br><br>🌐 Learn more about me here: https://fardin24.netlify.app/ <br><br><br>
 
 
 # 💻 Tech Stack:
