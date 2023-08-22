@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🌍, I'm Fardin!</h1>
 <h3 align="center">Full Stack Developer @ Morgan Stanley</h3>
 
-- 👨‍💻 I'm currently working as a SWE Intern at Morgan Stanley, building a dashboard and associated services for managing security data and entitlements across the entire firm.
+- 👨‍💻 I'm currently working as a SWE Intern at [Morgan Stanley](https://www.morganstanley.com/), building a dashboard and associated services for managing security data and entitlements across the entire firm.
 
 - 🔭 Also working on my social media food review app: [Savorite](https://savorite.netlify.app/)
 
