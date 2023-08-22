@@ -9,7 +9,7 @@
 
 - 💻 All of my projects are available at [https://fardin-abdullah.com/](https://fardin-abdullah.com/)
 
-- 💬 Ask me about **cats, music, sneakers, coding...**
+- 💬 Ask me about **cats, music, finance, coding...**
 
 - 📫 How to reach me **fardin.abdullah@mail.mcgill.ca**
 
